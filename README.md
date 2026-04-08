@@ -15,7 +15,7 @@ HTML5
  React (JSX)
 
  📂 Project Structure
-- index.html` – Entry HTML file  
+index.html` – Entry HTML file  
 - `src/main.jsx` – Main React entry point  
 - `src/` – Contains all React components and logic  
 
