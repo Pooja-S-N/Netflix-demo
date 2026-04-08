@@ -17,7 +17,7 @@ HTML5
  📂 Project Structure
 index.html` – Entry HTML file  
 src/main.jsx` – Main React entry point  
-- src/` – Contains all React components and logic  
+src/` – Contains all React components and logic  
 
 ## 🚀 How to Run
 1. Clone this repository  
