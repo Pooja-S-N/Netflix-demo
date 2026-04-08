@@ -38,7 +38,7 @@ src/– Contains all React components and logic
 4. Start the development server  
    bash
    npm run dev
-   ```
+   ``
 
 5. Open in browser  
    ```
