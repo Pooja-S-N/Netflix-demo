@@ -1,4 +1,4 @@
-#🎬 Netflix Clone
+🎬 Netflix Clone
 
 This project is a simple Netflix Clone web application built using modern frontend technologies.
 
