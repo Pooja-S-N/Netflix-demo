@@ -9,7 +9,7 @@ Dynamic content rendering using React
   Responsive design for different screen sizes
 
  🛠️ Technologies Used
-- HTML5  
+HTML5  
  CSS3 / Tailwind CSS (if used)  
 - JavaScript (ES6+)  
 - React (JSX)
