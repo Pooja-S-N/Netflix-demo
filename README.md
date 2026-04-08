@@ -26,7 +26,7 @@ src/– Contains all React components and logic
    
 
 2. Navigate to the project folder  
-   ```bash
+   ``bash
    cd netflix-clone
    ```
 
