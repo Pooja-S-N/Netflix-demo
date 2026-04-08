@@ -48,7 +48,7 @@ src/– Contains all React components and logic
 💡 Features
 Clean UI inspired by Netflix  
 Component-based architecture  
-- Fast development using Vite  
+Fast development using Vite  
 
 ## 👩‍💻 Author
 Pooja S
