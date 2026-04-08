@@ -23,7 +23,7 @@ src/– Contains all React components and logic
 1. Clone this repository  
    bash
    git clone <your-repo-link>
-   `
+   
 
 2. Navigate to the project folder  
    ```bash
