@@ -11,7 +11,7 @@ Dynamic content rendering using React
  🛠️ Technologies Used
 HTML5  
  CSS3 / Tailwind CSS (if used)  
-- JavaScript (ES6+)  
+ JavaScript (ES6+)  
 - React (JSX)
 
 ## 📂 Project Structure
