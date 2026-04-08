@@ -45,7 +45,7 @@ src/– Contains all React components and logic
    http://localhost:5173
    
 
-## 💡 Features
+# 💡 Features
 - Clean UI inspired by Netflix  
 - Component-based architecture  
 - Fast development using Vite  
