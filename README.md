@@ -8,7 +8,7 @@ The application replicates the basic structure of Netflix, including:
 Dynamic content rendering using React
   Responsive design for different screen sizes
 
-## 🛠️ Technologies Used
+# 🛠️ Technologies Used
 - HTML5  
 - CSS3 / Tailwind CSS (if used)  
 - JavaScript (ES6+)  
