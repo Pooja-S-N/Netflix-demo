@@ -36,7 +36,7 @@ src/– Contains all React components and logic
    
 
 4. Start the development server  
-   ```bash
+   ``bash
    npm run dev
    ```
 
