@@ -19,7 +19,7 @@ index.html` – Entry HTML file
 src/main.jsx` – Main React entry point  
 src/` – Contains all React components and logic  
 
-## 🚀 How to Run
+# 🚀 How to Run
 1. Clone this repository  
    ```bash
    git clone <your-repo-link>
