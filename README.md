@@ -50,5 +50,5 @@ Clean UI inspired by Netflix
 Component-based architecture  
 Fast development using Vite  
 
-#👩‍💻 Author
+👩‍💻 Author
 Pooja S
