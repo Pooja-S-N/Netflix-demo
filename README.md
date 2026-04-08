@@ -43,7 +43,7 @@ src/– Contains all React components and logic
 5. Open in browser  
    
    http://localhost:5173
-   ```
+   ``
 
 ## 💡 Features
 - Clean UI inspired by Netflix  
