@@ -31,7 +31,7 @@ src/– Contains all React components and logic
    
 
 3. Install dependencies  
-   ``bash
+   `bash
    npm install
    ```
 
