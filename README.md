@@ -5,7 +5,7 @@ This project is a simple Netflix Clone web application built using modern fronte
 📝 Description
 The application replicates the basic structure of Netflix, including:
  Homepage layout
-- Dynamic content rendering using React
+Dynamic content rendering using React
   Responsive design for different screen sizes
 
 ## 🛠️ Technologies Used
