@@ -28,7 +28,7 @@ src/– Contains all React components and logic
 2. Navigate to the project folder  
    bash
    cd netflix-clone
-   `
+   
 
 3. Install dependencies  
    ```bash
