@@ -12,7 +12,7 @@ Dynamic content rendering using React
 HTML5  
  CSS3 / Tailwind CSS (if used)  
  JavaScript (ES6+)  
-- React (JSX)
+ React (JSX)
 
 ## 📂 Project Structure
 - `index.html` – Entry HTML file  
